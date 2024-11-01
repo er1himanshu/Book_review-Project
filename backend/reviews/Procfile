@@ -1,0 +1,1 @@
+web: gunicorn bookreview.wsgi --log-file -
